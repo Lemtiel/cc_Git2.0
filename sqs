@@ -1,0 +1,173 @@
+[33mcommit bb13f647ba38dceb3deea13ade64e3a9c87107a3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdurant[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/dev[m[33m, [m[1;31morigin/TATOU[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m, [m[1;32mdev[m[33m)[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Sun Sep 12 20:32:00 2021 +0300
+
+    Change all greek text to english
+
+[33mcommit 58165cf23b02d54234c1ac2674f06c4ad94ae925[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Sun Sep 12 20:14:15 2021 +0300
+
+    Add license
+
+[33mcommit 3da405f5069f8a3c3ad50b564e6352e4efa031e4[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Sun Sep 12 20:09:01 2021 +0300
+
+    Create readme file
+
+[33mcommit 8e2643c2fcee9b352eb587d5b51cb9ce264b078c[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Sun Sep 12 19:50:11 2021 +0300
+
+    Start distributive property exercise
+
+[33mcommit 12957ae9dd81057e6b5ed080d37e11767359c07e[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Sat Jun 6 23:10:22 2020 +0300
+
+    New exercises
+
+[33mcommit d217a40de95e4dc093e1d1e2f352f426342cbe01[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Sat Jun 6 22:08:03 2020 +0300
+
+    Reorganize exercises
+
+[33mcommit d20afc184f519d4207a20fdf7479b72d622e88d6[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Sat Jun 6 21:00:59 2020 +0300
+
+    Add validation
+
+[33mcommit 9bde25eccb8baefc83a6e8eb26494c2766baccfa[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Sun May 24 18:55:19 2020 +0300
+
+    Finish addMonomials exercise (need validation)
+
+[33mcommit 51b23b13a3f9392a8021690a9378cf4549c12254[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Sat May 23 21:55:07 2020 +0300
+
+    Bug fix at Exercise, start addMonomials exercise
+
+[33mcommit 69aee671c44692319ee7357206026d776c796ad0[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Sat May 23 21:36:20 2020 +0300
+
+    Complete new exercise, change page title
+
+[33mcommit 024ccf8cc704e32e2fa2f0eb291aa10a581a6ed4[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Sat May 23 14:55:56 2020 +0300
+
+    Start new exercise, improve random methods
+
+[33mcommit 93191673cfda3f749e4fb2048950a68092698d40[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Wed May 20 20:37:07 2020 +0300
+
+    Organize exercises into folders
+
+[33mcommit 3715345c1507546f5a62cc2a9e73ede268507cb2[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Wed May 20 15:52:58 2020 +0300
+
+    Small Change
+
+[33mcommit b2617b30bd63476b8388ee78bc5ef717327a32ce[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Wed May 20 15:41:08 2020 +0300
+
+    Add new exercises
+
+[33mcommit aeb14edf2cfa414c19ef024ca137c9cf246fa83f[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Wed May 20 14:53:20 2020 +0300
+
+    Install react-spring and img container css fix
+
+[33mcommit 7df4aece9f93c1c30134d511c6d3dbabf0e35f93[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Tue May 19 15:49:25 2020 +0300
+
+    Auto focus on answer and fix home links
+
+[33mcommit 9923078987a00b23f963e6222870ac16ba0dd834[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Tue May 19 15:36:22 2020 +0300
+
+    Add tally and score functionality
+
+[33mcommit 94c3f37ac98c8cf096e357369f5147e2685bd31f[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Mon May 18 17:09:52 2020 +0300
+
+    Experimenting with the tally
+
+[33mcommit f0f3de09af7b4c28e02218ef76104cfa28b3df8f[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Sun May 17 15:51:10 2020 +0300
+
+    Change to HashRouter
+
+[33mcommit 5d8722a2af5cb70f40fae78aa499bacfd67cb1df[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Sun May 17 15:20:18 2020 +0300
+
+    Prepare to deploy
+
+[33mcommit 640f6bc54834bbd70039ae5f8958a660815ecfbe[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Mon Apr 27 16:26:55 2020 +0300
+
+    Style home page
+
+[33mcommit 5ef6c8dec28d6aa1cc5106943807100afc50d01d[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Mon Apr 27 15:36:33 2020 +0300
+
+    Exercise Page Styling
+
+[33mcommit 557916de0c75f49a9f53887774c6a52007b3ce0d[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Sun Apr 19 01:05:04 2020 +0300
+
+    Mostly Styling
+
+[33mcommit c72413acabe42a326fd42a39eca71697d67e7bf1[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Thu Apr 16 20:38:09 2020 +0300
+
+    Minor Changes
+
+[33mcommit acc62b3d9136c8fae8d26f387615a2e8598fb3de[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Thu Apr 16 15:14:50 2020 +0300
+
+    Create AddSubFractions Exercise, minor changes
+
+[33mcommit a342700b509120478d3e477ca211825dd1bc8893[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Thu Apr 16 14:42:37 2020 +0300
+
+    Simplify Fraction Exercise
+
+[33mcommit 5d6fcd210ee9407878b607ed22e86414d4f07519[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Thu Apr 16 14:07:14 2020 +0300
+
+    Check answer and display completed exercises
+
+[33mcommit 63040ac932935896f7aff2d420b215f179d7c50b[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Tue Apr 14 22:10:15 2020 +0300
+
+    Start
+
+[33mcommit c964a7fc16791aa8633096247da9ddd5ded49c63[m
+Author: Greg <mgrke1@yahoo.gr>
+Date:   Tue Apr 14 12:39:52 2020 +0300
+
+    Initialize project using Create React App
